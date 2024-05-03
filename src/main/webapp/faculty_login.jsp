@@ -154,7 +154,9 @@
 			else
 			{
 				session.removeAttribute("Error");
+
 				session.setAttribute("Error","User Does Not Exist");
+
 			}
 		}
 
